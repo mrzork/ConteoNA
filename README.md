@@ -1,9 +1,5 @@
----
-title: "Counting consecutive empty values in a data"
-output: html_document
----
+#Counting consecutive empty values in a data"
 
-#
 
 One problem many times in a time series is the lack of information, which prevents a proper modeling of the data. 
 
